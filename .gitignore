@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+.DS_Store
+data/
+outputs/
+results/
+*.csv
+*.xlsx
+*.nii
+*.nii.gz
+*.pkl
+*.pdf
+*.png
